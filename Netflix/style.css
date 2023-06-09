@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: large;
+}
+body{
+    background-image: url('AAAABer7SeWc6FvkBqWtk61GwL7rshAEVCOARQZVTEJGnLXykYBlO4nbbr6gs7M650BjULuaN6hucXKr5xY2iqPAajrxXd70HawdJeuD.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+  
+}
+nav{position: fixed;
+    display: flex;
+align-items: center;
+height: 81px;
+width: 100%;
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9091036072632178) 25%, rgba(0,0,0,0.8670868005405288) 50%, rgba(0,0,0,0.7606442235097164) 75%, rgba(0,0,0,0) 100%);
+}
+.navitems{display: flex; color: white;}
+.navitno{margin: 21px;}
+.logo{
+    margin: 35px;
+}
+#swipdasleft{
+
+width: 40px;
+height: 40px;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 221px;
+left: 9px;
+}
+#swipdasright{
+
+    width: 40px;
+    height: 40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 221px;
+    left: 1238px;
+    }
+.upper{
+   
+    height: 274px;
+    padding-top: 103px;
+    padding-left: 58px;
+}
+.upperit{
+    margin-top: 10px;
+}
+#no1{height: 30px;
+    width: 60px;
+    background-color: white;
+    border:0px;
+    border-radius: 10px;
+    }
+#no2{height: 30px;
+    width: 88px;
+    background-color: white;border:0px;
+    border-radius: 10px;}
+    .des{
+        color: white;
+    }
+
+    .toppickforyou{ 
+        background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9091036072632178) 25%, rgba(0,0,0,0.8670868005405288) 50%, rgba(0,0,0,0.7606442235097164) 75%, rgba(0,0,0,0.7326330190279237) 88%, rgba(0,0,0,0) 100%);
+        padding-left: 40px;
+        height: 155px;
+        color: white;
+      
+    }
+    .toph{margin-bottom: 5px;}
+
+    .imgits{
+        width: 200px;
+      
+    }
+
+.tranding{ color: white; padding-left: 40px; background-color: black;}
+.s1{
+    height: 27px;
+    width: 29px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+.s2{
+    height: 27px;
+    width: 29px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
